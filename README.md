@@ -1,7 +1,28 @@
-# PhazonCorruption
+<p align="center">
+  <img src="sce_sys/icon0.png" width="160" height="160" alt="PhazonCorruption icon">
+</p>
 
-Native PS5 port of Metroid Prime 3: Corruption, in development. The initial target is the European release (RM3P01 Rev. 0). A future build will require a supported copy of the game.
+<h1 align="center">PhazonCorruption</h1>
 
-## Development status
+<p align="center">
+  <strong>Metroid Prime 3: Corruption on PlayStation 5</strong><br>
+  An unofficial native PS5 homebrew port by <a href="https://github.com/BaZZtian">BaZZtian</a>.
+</p>
 
-The PS5 artwork and package metadata are prepared. There is no installable release or verified gameplay build. The local development title ID is PPSA99735.
+<p align="center">
+  <a href="#availability">Availability</a> · <a href="#requirements">Requirements</a> · <a href="#support">Support</a>
+</p>
+
+![PhazonCorruption artwork](background-source.png)
+
+## Availability
+
+**Coming soon.** The PS5 download will be listed through [Prospero Store](https://prosperostore.net/) when available. You can follow the [store listing request](https://github.com/darkxex/ps5-homebrew-catalog/pull/1314).
+
+## Requirements
+
+PhazonCorruption is intended for PS5 homebrew users with their own copy of the Wii game. The first planned disc profile is Europe (PAL), RM3P01 revision 0. Supported formats and installation instructions will accompany the release. The game is sold separately.
+
+## Support
+
+For questions about PhazonCorruption, use [GitHub Issues](https://github.com/BaZZtian/PhazonCorruption/issues). See also [PhazonPrime](https://github.com/BaZZtian/PhazonPrime) for the first Metroid Prime.
