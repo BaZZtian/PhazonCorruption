@@ -1,0 +1,8 @@
+*.rvz
+*.iso
+*.dol
+*.elf
+*.pkg
+eboot.bin
+/build/
+/.local/

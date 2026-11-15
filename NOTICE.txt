@@ -1,0 +1,3 @@
+# Notices
+
+This repository currently contains project documentation, artwork and package metadata. Metroid Prime 3: Corruption and its game data belong to their respective rights holders.
