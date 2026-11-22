@@ -17,7 +17,9 @@
 
 ## Availability
 
-**Coming soon.** The PS5 download will be listed through [Prospero Store](https://prosperostore.net/) when available. You can follow the [store listing request](https://github.com/darkxex/ps5-homebrew-catalog/pull/1314).
+No public download is available yet. The first planned game profile is the European Wii edition, RM3P01 revision 0.
+
+[Follow releases](https://github.com/BaZZtian/PhazonCorruption/releases)
 
 ## Requirements
 
